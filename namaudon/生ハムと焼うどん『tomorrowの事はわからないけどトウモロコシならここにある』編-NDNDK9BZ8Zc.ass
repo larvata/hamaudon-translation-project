@@ -16,9 +16,9 @@ Video File: 生ハムと焼うどん『tomorrowの事はわからないけどト
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 298
-Active Line: 300
-Video Position: 30123
+Scroll Position: 101
+Active Line: 120
+Video Position: 16374
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -152,9 +152,9 @@ Dialogue: 0,0:09:00.93,0:09:05.79,生乌冬,,0,0,0,,等等 这不就是传说中
 Dialogue: 0,0:09:05.79,0:09:07.40,生乌冬,,0,0,0,,好厉害的morokoshi感知术
 Dialogue: 0,0:09:07.57,0:09:11.56,生乌冬,,0,0,0,,我们真的 太幸运了
 Dialogue: 0,0:09:14.71,0:09:17.17,生乌冬,,0,0,0,,啊咧 等等
-Dialogue: 0,0:09:17.22,0:09:18.94,生乌冬,,0,0,0,,pie桑
+Dialogue: 0,0:09:17.22,0:09:18.94,生乌冬,,0,0,0,,导播桑
 Dialogue: 0,0:09:19.91,0:09:21.53,生乌冬,,0,0,0,,你是最棒的
-Dialogue: 0,0:09:21.76,0:09:23.24,生乌冬,,0,0,0,,等等 pie桑
+Dialogue: 0,0:09:21.76,0:09:23.24,生乌冬,,0,0,0,,等等 导播桑
 Dialogue: 0,0:09:24.44,0:09:30.50,生乌冬,,0,0,0,,是不是因为没拿到玉米 有小情绪了
 Dialogue: 0,0:09:30.59,0:09:31.52,生乌冬,,0,0,0,,这样可不行
 Dialogue: 0,0:09:31.70,0:09:35.31,生乌冬,,0,0,0,,好在我们还有一个玉米
