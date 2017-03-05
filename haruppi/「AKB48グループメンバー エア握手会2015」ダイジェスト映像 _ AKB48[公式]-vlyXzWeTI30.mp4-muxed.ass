@@ -1,0 +1,20 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 「AKB48グループメンバー エア握手会2015」ダイジェスト映像 _ AKB48[公式]-vlyXzWeTI30.mp4-muxed
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,28,&H00FFFFFF,&HF0000000,&H00ff4000,&HF0000000,-1,0,0,0,100,100,0,0.00,1,7,0,2,0,0,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.31,0:00:07.73,Default,,0,0,0,,谢谢！
+Dialogue: 0,0:00:07.87,0:00:09.16,Default,,0,0,0,,来自哪里的？
+Dialogue: 0,0:00:09.52,0:00:10.83,Default,,0,0,0,,谢谢！
+Dialogue: 0,0:00:10.97,0:00:13.07,Default,,0,0,0,,迷恋迷恋P啦～呢！
+Dialogue: 0,0:00:13.62,0:00:14.53,Default,,0,0,0,,谢谢！
+Dialogue: 0,0:00:14.58,0:00:15.96,Default,,0,0,0,,欢迎再来哈！
+Dialogue: 0,0:00:16.07,0:00:17.66,Default,,0,0,0,,ByeBye！ 等着呢！
